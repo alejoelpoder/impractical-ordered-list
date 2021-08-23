@@ -1,12 +1,12 @@
 # impractical-ordered-list
 Forma impráctica pero interezante de ordenar arrays numéricos de forma ascendente
 
-# impractical-ordered-list
+# Instalar
 
 Install with npm:
 npm i impractical-ordered-list
 
-#Example 
+# Example 
 Here is an example how to use this package as library.
 
 const {impracticalOrderedList} = require('impractical-ordered-list')
