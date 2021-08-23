@@ -9,11 +9,11 @@ npm i impractical-ordered-list
 # Example 
 Here is an example how to use this package as library.
 
-const {impracticalOrderedList} = require('impractical-ordered-list')
+const {ordenar_array} = require('impractical-ordered-list')
 
 const list = [1,4,9,3,8,11,5,16,35,45];
 
-var list_ordenada = impracticalOrderedList(list)
+var list_ordenada = ordenar_array(list)
   
 console.log(list_ordenada)
 
