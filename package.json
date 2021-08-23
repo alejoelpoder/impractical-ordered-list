@@ -1,12 +1,18 @@
 {
   "name": "impractical-ordered-list",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Ordena array de forma ascendente",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["array", "order", "ordenar", "ascendente", "impráctico"],
+  "keywords": [
+    "array",
+    "order",
+    "ordenar",
+    "ascendente",
+    "impráctico"
+  ],
   "author": "Alejo Mayurí",
   "license": "ISC"
 }
