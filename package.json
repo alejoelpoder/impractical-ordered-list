@@ -14,5 +14,13 @@
     "impráctico"
   ],
   "author": "Alejo Mayurí",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejoelpoder/impractical-ordered-list.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alejoelpoder/impractical-ordered-list/issues"
+  },
+  "homepage": "https://github.com/alejoelpoder/impractical-ordered-list#readme"
 }
