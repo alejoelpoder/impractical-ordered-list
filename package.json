@@ -1,5 +1,5 @@
 {
-  "name": "impractical-ordered-list",
+  "name": "impractical-sorted-list",
   "version": "1.0.2",
   "description": "Ordena array de forma ascendente",
   "main": "src/index.js",
